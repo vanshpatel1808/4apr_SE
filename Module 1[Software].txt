@@ -1,0 +1,93 @@
+  Module 1[Software]
+
+1. What is software?
+
+
+=> Software: s/w is the language of computer.
+- is a collection of computer programs and related data that provide the instructions for
+telling a computer what to do and how to do it.
+- Just like human language.
+
+
+
+2. Types of software
+
+
+=> There are five types of software 
+   1) Application Software :- it is a computer software package that peroforms the specific function for a user,or in some cases for another computer application.
+Ex- Image and Video editor, word processors and communication platform etc.
+   2) System Software :- it is a program designed to run a computer's application program and hardware.
+Ex- windows,linux,mac os etc.
+   3) Driver software :- it is also knows as device drivers, it is a type of software that lets the operating system and a device communicate with each other.
+Ex- audio driver,video driver etc.
+   4) Middleware :- The software that meditates between application and system software or between two diffrent kinds of application software.
+Ex- database, application server etc.
+   5)Programming Software :- Programming software enable developers to develop,write,test and debug other software program.
+Ex-Visual studio code,notepad++ etc.
+
+
+3. What is Software Development Methodology? 
+
+=   The software development life cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software in detail,the sdlc methology focuses on the following phases of software development:-
+
+     
+    1)- requirement gathering
+    2)- analysis
+    3)- designing
+    4)- implementation
+    5)- testing
+    6)- maintenance
+
+4. What is design pattern?
+ 
+=    DFD:- Data flow digram
+     data flow daigram is a process to representing a data in a proper flow 
+     0- leval dfd
+     1-leval dfd
+     2-leval dfd
+     
+     Flowchart is a process of representing the program in a sequental manner.
+
+1. What is the difference between Application software and system software? 
+=> The difference between Application software and system software.
+
+Application Software
+- The most commom type of software, apllication software is a computer software package that performs a specific function for a user, or in some cases, fpr another application.
+- An application can be self-contained, or it can be a group of programs that run the application for the user.
+- Examples of modern application include officesuites, graphics software, databases and databese management programs, web browsers, word processors, software development tools, image editors and communication platforms.
+
+Example: Microsoft office, Paint, Powerpoint etc...
+
+System Software
+- These software programs are designed to run a computer's application programs and hardware.
+- System software coordinates the activities and functions of the hardware and software.
+- It controls the operations of the computer hardware and provides an environment or platform for all the other types of software to work in.
+- The OS is the best example of system software; it manages all the other computer programs.
+- Other examples of system software include the firmware, computer language translators and system utilities.
+
+Example:- Notepad, Calculator etc...
+
+
+2. Explain the SDLC Each face Process
+=> The SDLC methodology focuses on the following phases of software development:
+There are 6 phase of SDLC:-
+1. Requirement gathering- To gather the requirments
+2. Analysis- Analysis of requirments
+3. Designing- Frontfend:- HTML,CSS,JS...
+4. Coding- backend:- python, java, php...
+5. Testing- To test  the website or application 
+6. Maintainence- To maintain the application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
